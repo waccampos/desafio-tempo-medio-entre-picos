@@ -1,8 +1,8 @@
-# desafio-tempo-medio
+# desafio-tempo-medio-entre-picos 
 Desafio de programação - Tempo Médio Entre Picos
 
 # Dificuldade do desafio
-Mediana
+Este desafio tem dificuldade média
 
 # Introdução
 Bem-vindo ao desafio TMEP: desafio Tempo Médio Entre Picos!
@@ -16,7 +16,7 @@ https://br.indeed.com/job/pessoa-apaixonada-por-programar-computadores-junior-f3
 
 - Fork esse repositório.
 - Implemente uma solução para o desafio usando qualquer linguagem de programação que você quiser! (veja mais detalhes abaixo)
-- Descreva a sua solução em um arquivo markdown ```SOLUTION.md``` (veja mais detalhes abaixo)
+- Descreva a sua solução em um arquivo chamado ```SOLUTION.md``` usando o markdown do github (veja mais detalhes abaixo)
 - Commit/Push sua solução mais o arquivo ```SOLUTION.md``` para o **SEU FORK**!
 - Envie o link do seu fork para o nosso time de recrutamente
 - Aguarde nosso feedback!
@@ -58,4 +58,7 @@ Escreva a sua solução para gerar o tempo médio usando minutos e segundos. Por
 # Dicas
 
 - Use boas práticas de algoritmos
+- A sua descição em ```SOLUTION.md``` é tão importante quanto o seu código
+- Use boas práticas de programação, como métodos e variáveis com nomes intuitivos
+- Não perca muito tempo com formatação do markdown. Ai menos é mais.
 - Sentiu falta de alguma coisa? Seja criativo!
