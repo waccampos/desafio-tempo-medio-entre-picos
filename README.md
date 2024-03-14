@@ -18,7 +18,7 @@ https://br.indeed.com/job/pessoa-apaixonada-por-programar-computadores-junior-f3
 - Implemente uma solução para o desafio usando qualquer linguagem de programação que você quiser! (veja mais detalhes abaixo)
 - Descreva a sua solução em um arquivo chamado ```SOLUTION.md``` usando o markdown do github (veja mais detalhes abaixo)
 - Commit/Push sua solução mais o arquivo ```SOLUTION.md``` para o **SEU FORK**!
-- Envie o link do seu fork para o nosso time de recrutamente
+- Envie o link do seu fork para o nosso time de recrutamento
 - Aguarde nosso feedback!
 
 # Descreva a sua solução
@@ -35,7 +35,7 @@ Considere a seguinte imagem:
 
 ![image](https://github.com/norelod/desafio-tempo-medio/assets/37966960/971a85af-ba38-4524-bda7-2a0744f4f7cf)
 
-Essa imagem representa a leitura de um sensor que está mendindo um processo oscila continuamente para cima e para baixo.
+Essa imagem representa a leitura de um sensor que está mendindo um processo que oscila continuamente para cima e para baixo.
 
 Todo sensor tem ruído. No caso desse sensor, o ruído gera alguns "picos" falsos aleatórios principalmente quando o valor está decaindo.
 
